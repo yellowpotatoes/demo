@@ -8,4 +8,5 @@ public class User {
     private int du;
     private int size;
     private int high;
+    private String adress;
 }
