@@ -6,4 +6,5 @@ public class User {
     private int age;
     private int dudu;
     private int du;
+    private int size;
 }
