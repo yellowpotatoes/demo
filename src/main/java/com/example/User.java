@@ -7,4 +7,5 @@ public class User {
     private int dudu;
     private int du;
     private int size;
+    private int high;
 }
